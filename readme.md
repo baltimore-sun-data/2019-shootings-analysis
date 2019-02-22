@@ -1,4 +1,4 @@
-# Baltimore daily analysis
+# Baltimore daily shootings analysis
 
 ## Baltimore Sun analysis
 
