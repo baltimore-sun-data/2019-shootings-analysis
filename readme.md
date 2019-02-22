@@ -8,7 +8,7 @@ The Baltimore Sun conducted the following analysis of Baltimore Police Departmen
 
 The analysis provided information for the Feb. 22, 2019 Baltimore Sun story titled ["Thursday's violence in Baltimore was extreme — but the number of shootings isn't unprecedented"](https://www.baltimoresun.com/news/maryland/crime/bs-md-ci-homicide-record-numbers-20190222-story.html).
 
-The Sun's findings and analysis are available in the "analysis" notebook in this repository, `shootings_analysis.ipynb`.
+The Sun's findings and analysis are available in the "analysis" notebook in this repository, [`shootings_analysis.ipynb`](https://nbviewer.jupyter.org/github/baltimore-sun-data/2019-shootings-analysis/blob/master/shootings_analysis.ipynb).
 
 https://twitter.com/baltsundata
 
